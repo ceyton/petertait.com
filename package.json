@@ -1,14 +1,14 @@
 {
-  "name": "petertait.com",
+  "name": "ossaili.com",
   "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/petertait/petertait.com"
   },
   "author": {
-    "name": "Peter Tait",
-    "email": "contact@petertait.com",
-    "url": "https://petertait.com"
+    "name": "Shadi Ossaili",
+    "email": "shadi.s.ossaili@gmail.com",
+    "url": "https://ossaili.com"
   },
   "license" : "MIT",
   "dependencies": {
